@@ -1,5 +1,5 @@
 # javascript-bubble-game [click here ](https://magenta-youtiao-240d7c.netlify.app/)
-We created javascript bubble in just 3 files 
+We created javascript bubble game in just 3 files 
 ## Working demo
 - If video is not showing [Click here](https://clipchamp.com/watch/C9spua6Dd8b)
   
