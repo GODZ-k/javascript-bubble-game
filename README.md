@@ -1,6 +1,9 @@
 # javascript-bubble-game [click here ](https://magenta-youtiao-240d7c.netlify.app/)
 We created javascript bubble in just 3 files 
-
+## Working demo
+- If video is not showing [Click here](https://clipchamp.com/watch/C9spua6Dd8b)
+  
+https://github.com/GODZ-k/javascript-bubble-game/assets/131422684/9a765f02-cb40-4516-832a-a97d09d88a78
 ### STEP 1: Cteate these files
 - index.html
 - index.css
