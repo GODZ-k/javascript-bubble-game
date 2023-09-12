@@ -1,5 +1,5 @@
 # javascript-bubble-game [click here ](https://magenta-youtiao-240d7c.netlify.app/)
-We created javascript bubble game in just 3 files 
+Creating a bubble game using HTML, CSS, and JavaScript is a fun project that involves creating a simple interactive game where users can pop bubbles by clicking on them. Here's a step-by-step explanation of how you can create such a game:
 ## Working demo
 - If video is not showing [Click here](https://clipchamp.com/watch/C9spua6Dd8b)
   
